@@ -1,33 +1,27 @@
 # Proyecto-final-de-analista-de-datos-de-IBM
-Recientemente ha sido contratado como analista de datos por una empresa global de servicios de consultoría empresarial y de TI conocida por su experiencia en soluciones de TI y su equipo de consultores de TI altamente experimentados. Con el fin de mantener el ritmo de las tecnologías cambiantes y seguir siendo competitivos, su organización analiza regularmente los datos para ayudar a identificar las necesidades futuras de competencias. 
 
-Como analista de datos, usted colaborará en esta iniciativa y se le ha encomendado la tarea de recopilar datos de diversas fuentes e identificar tendencias para el informe de este año sobre competencias emergentes. 
+Recientemente ha sido contratado como analista de datos por una empresa global de consultoría empresarial y de TI reconocida por su experiencia en soluciones de TI y consultores altamente experimentados. Para seguir siendo competitiva en el panorama tecnológico en rápida evolución, su organización analiza regularmente los datos para identificar los requisitos de habilidades emergentes y futuros.
 
-Su primera tarea consistirá en recopilar las principales habilidades de programación más demandadas de diversas fuentes, entre ellas
+Como analista de datos, contribuirá a esta iniciativa mediante la recopilación de datos de diversas fuentes y la identificación de tendencias para el informe de este año sobre las habilidades más demandadas. Una fuente clave para su análisis será la última Encuesta a desarrolladores, un conjunto de datos completo que ofrece información sobre la comunidad global de desarrolladores.
+Su tarea inicial es recopilar datos sobre las habilidades de programación más buscadas de varias fuentes, que incluyen:
 
 - Ofertas de empleo
-
 - Portales de formación
+- Encuestas a desarrolladores, como la última Encuesta a desarrolladores de Stack Overflow
 
-- Encuestas
+Después de recopilar suficientes datos, los analizará para identificar ideas y tendencias clave. Algunas de las tendencias que explorará incluyen:
 
-Una vez que haya recopilado suficientes datos, comenzará a analizarlos y a identificar perspectivas y tendencias que pueden incluir lo siguiente:
+- ¿Qué lenguajes de programación son los más demandados?
+- ¿Qué tecnologías de bases de datos son las más buscadas actualmente?
+- ¿Qué entornos de desarrollo integrado (IDE) son los más populares?
 
-- ¿Cuáles son los lenguajes de programación más demandados?
+Comenzará raspando sitios web de Internet, accediendo a API y trabajando con conjuntos de datos como la última encuesta de desarrolladores de Stack Overflow en varios formatos, como archivos de .csv, hojas de Excel y bases de datos.
+Después de recopilar los datos, aplicará técnicas de organización de datos para preparar los datos para el análisis.
 
-- ¿Cuáles son los conocimientos de bases de datos más demandados?
+Una vez que se preparen los datos, empleará técnicas estadísticas para analizar los datos, identificando tendencias y conocimientos clave. A continuación, sintetizará sus hallazgos utilizando IBM Cognos Analytics para crear un panel de control que visualice los resultados. Finalmente, compartirá sus ideas a través de una presentación, mostrando sus habilidades de narración y análisis de datos.
 
-- ¿Cuáles son los IDE más populares?
-
-Comenzará raspando sitios web de Internet y accediendo a API para recopilar datos en diversos formatos como archivos .csv, hojas de Excel y bases de datos.   
  
-Una vez hecho esto, preparará esos datos para su análisis utilizando técnicas de data wrangling. 
- 
-Cuando los datos estén listos, querrá aplicar técnicas estadísticas para analizarlos.  A continuación, reúna toda la información utilizando IBM Cognos Analytics para crear su cuadro de mando. Y por último, haga gala de sus habilidades narrativas compartiendo sus hallazgos en una presentación.
-
-Se le evaluará mediante cuestionarios en cada módulo, así como en la presentación final del proyecto.
-
-## Acerca del conjunto de datos
+ ## Acerca del conjunto de datos
 Stack Overflow, un popular sitio web para desarrolladores, realizó una encuesta en línea a profesionales del software de todo el mundo. Más tarde, Stack Overflow abrió los datos de la encuesta. El conjunto de datos real tiene alrededor de 90.000 respuestas.
 
 El conjunto de datos que va a utilizar en esta tarea procede de la siguiente fuente: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv**.
@@ -36,7 +30,7 @@ Se le dará un subconjunto del conjunto de datos original en este proyecto final
 
 Nota: Este subconjunto aleatorio contiene alrededor de 1/10 del conjunto de datos original. Es posible que las conclusiones que saque después de analizar este subconjunto no reflejen el escenario del mundo real.
 
-El conjunto de datos está disponible como archivo .csv aquí: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv
+El conjunto de datos está disponible como archivo .csv aquí: [https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/survey_data.csv](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/n01PQ9pSmiRX6520flujwQ/survey-data.csv)
 
 En la siguiente tabla se enumeran las preguntas formuladas en la encuesta y la columna en la que se recopiló la respuesta.
 
