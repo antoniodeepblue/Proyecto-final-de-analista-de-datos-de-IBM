@@ -9,6 +9,9 @@ Su tarea inicial es recopilar datos sobre las habilidades de programación más 
 - Portales de formación
 - Encuestas a desarrolladores, como la última Encuesta a desarrolladores de Stack Overflow
 
+![image](https://github.com/user-attachments/assets/64bc42bc-4560-4be6-bf6c-6d8cc9a9122d)
+
+
 Después de recopilar suficientes datos, los analizará para identificar ideas y tendencias clave. Algunas de las tendencias que explorará incluyen:
 
 - ¿Qué lenguajes de programación son los más demandados?
