@@ -23,7 +23,8 @@ Después de recopilar los datos, aplicará técnicas de organización de datos p
 
 Una vez que se preparen los datos, empleará técnicas estadísticas para analizar los datos, identificando tendencias y conocimientos clave. A continuación, sintetizará sus hallazgos utilizando IBM Cognos Analytics para crear un panel de control que visualice los resultados. Finalmente, compartirá sus ideas a través de una presentación, mostrando sus habilidades de narración y análisis de datos.
 
- 
+ ![image](https://github.com/user-attachments/assets/a65876e7-d874-4458-9e25-515875fc3437)
+
  ## Acerca del conjunto de datos
 Stack Overflow, un popular sitio web para desarrolladores, realizó una encuesta en línea a profesionales del software de todo el mundo. Más tarde, Stack Overflow abrió los datos de la encuesta. El conjunto de datos real tiene alrededor de 90.000 respuestas.
 
